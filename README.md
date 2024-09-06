@@ -14,7 +14,7 @@
 
 <img align="center" width="800" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Oshan-Dilmina&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Akascape's github streak stats"> 
 <img align="center" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oshan-Dilmina&theme=transparent&show_icons=true&bg_color=0111111&hide_border=true"> 
-<img src="https://raw.githubusercontent.com/Akascape/Akascape/output/snek.svg">
+<img src="snek.svg">
 
 </p>
 
