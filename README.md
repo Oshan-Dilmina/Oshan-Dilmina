@@ -1,4 +1,4 @@
-<center><h1>HI I AM OSHAN</h1></center>
+
 
 # 💫 About Me:
 
