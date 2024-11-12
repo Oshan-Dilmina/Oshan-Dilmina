@@ -10,7 +10,7 @@
 ## My Skill Set  
 
 
-
+<center>
 
 ### Languages  
 <div align="center">  
@@ -19,6 +19,7 @@
 
 </div>
 
+</center>
 
 ### WebDev  
 <div align="center">  
