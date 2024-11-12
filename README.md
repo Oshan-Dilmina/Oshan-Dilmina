@@ -31,7 +31,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+
 
 
 
@@ -56,38 +56,8 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
-<br/>  
-
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Oshan-Dilmina&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br>
 # 📊 GitHub Stats:
 <p align="center">
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Oshan-Dilmina&show_icons=true&theme=transparent&hide_border=true"> 
