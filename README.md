@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <a href="https://github.com/Ashen-Dulmina/Brain-Rot-VScode-Extention/">Brain-Rot VS Code Extension</a><br>
+🔭 I’m currently working on <a href="https://github.com/Ashen-Dulmina/">a Tournament Mangager</a><br>
 
 [![](https://visitcount.itsvg.in/api?id=Oshan-Dilmina&icon=10&color=0)](https://visitcount.itsvg.in)
 
