@@ -1,22 +1,82 @@
-# 💫 About Me:
-🔭 I’m currently working on <a href="https://github.com/Oshan-Dilmina/Tournament-Manager">a Tournament Mangager</a><br>
+<div align="center" border_radius="5px">
+  <img height="150" src="https://avatars.githubusercontent.com/u/120033604?s=400&u=61972b3079b2ee0f792050ec365e70de63eb6da6&v=4"  />
+</div>
 
-[![](https://visitcount.itsvg.in/api?id=Oshan-Dilmina&icon=10&color=0)](https://visitcount.itsvg.in)
+###
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oshandilmina) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/PYTHON_PLAYER) 
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
+###
 
-<p align="center">
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Oshan-Dilmina&show_icons=true&theme=transparent&hide_border=true"> 
-<img align="center" width="400" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Oshan-Dilmina&theme=transparent&hide_border=true&layout=compact'>
+<h1 align="center">Hey there 👋</h1>
 
-<img align="center" width="800" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Oshan-Dilmina&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Akascape's github streak stats"> 
-<img align="center" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oshan-Dilmina&theme=transparent&show_icons=true&bg_color=0111111&hide_border=true"> 
-<img src="snek.svg">
+###
 
-</p>
+<h3 align="left">👩‍💻  About Me</h3>
 
+###
+
+<p align="left"></p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=Oshan-Dilmina&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=18&date_format=%5BY%20%5DM%20j&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:Oshan-Dilmina?theme=minecraft&padding=6&offset=0&scale=1.3&align=top&pixelated=0&darkmode=auto"  />
+</div>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oshan-Dilmina/Oshan-Dilmina/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oshan-Dilmina/Oshan-Dilmina/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Oshan-Dilmina/Oshan-Dilmina/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
