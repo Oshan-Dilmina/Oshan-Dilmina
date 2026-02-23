@@ -17,8 +17,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
-<p align="left">Currently working on a [Tournament Manager](https://github.com/Oshan-Dilmina/Tournament-Manager)</p>
+Currently working on a [Tournament Manager](https://github.com/Oshan-Dilmina/Tournament-Manager)
 
 ###
 
