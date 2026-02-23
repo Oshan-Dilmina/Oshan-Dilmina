@@ -46,15 +46,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<br><br>
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=Oshan-Dilmina&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=18&date_format=%5BY%20%5DM%20j&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Oshan-Dilmina&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=18&date_format=%5BY%20%5DM%20j&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
