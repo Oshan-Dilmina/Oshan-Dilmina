@@ -55,7 +55,7 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:Oshan-Dilmina?theme=minecraft&padding=6&offset=0&scale=1.3&align=top&pixelated=0&darkmode=auto"  />
+  <img src="https:///@:Oshan-Dilmina?theme=minecraft&padding=6&offset=0&scale=1.3&align=top&pixelated=0&darkmode=auto"  />
 </div>
 
 ###
